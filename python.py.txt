@@ -1,2 +1,6 @@
 print("Hello World !!! Welcome all")
+<<<<<<< HEAD
 print("Hello World !!! Welcome all")
+=======
+print("Hello World !!! Welcome ")
+>>>>>>> teammember
